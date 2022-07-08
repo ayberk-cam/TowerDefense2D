@@ -1,2 +1,3 @@
 # TowerDefense2D
- 2D Tower Defense Game
+2D Tower Defense Game
+The tower buttons on the right side of the level screen create a tower at a random point on the map. The destroy button at the bottom will randomly choose one of the towers and destroy it. Each wave creates more enemies. Each enemy killed is worth 1 dollar. The prices of the towers are written under the buttons. If any enemy enters the red portal, the game will be over.
